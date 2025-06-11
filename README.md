@@ -1,5 +1,4 @@
-## Welcome to my profile 
-
+## 
 <!--
 **AbdullahHassan101/AbdullahHassan101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
